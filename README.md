@@ -10,6 +10,15 @@ Ich bin Geschäftsführer, Front- und Backend-Developer sowie Webdesigner bei [K
 - 📚 **Dokumentation:** Ich schreibe und pflege Dokus für das [REDAXO CMS](https://redaxo.org/doku/main) und teile mein Wissen gerne mit der Community.
 - 🤝 **Community:** Aktiv bei [FriendsOfRedaxo](https://friendsofredaxo.github.io) & Teil des [REDAXO-Teams](https://redaxo.org/cms/team/).
 
+## 💖 Unterstütze meine Arbeit
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge)](https://github.com/sponsors/skerbis)
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skerbis&show_icons=true&hide_title=true&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skerbis&layout=compact&hide_title=true)
+
 ## 💡 Was dich hier erwartet
 
 - Open Source-Projekte rund um REDAXO und Webentwicklung
