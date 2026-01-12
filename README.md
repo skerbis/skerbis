@@ -14,11 +14,6 @@ I'm Managing Director, Front- and Backend Developer, and Web Designer at [KLXM C
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge)](https://github.com/sponsors/skerbis)
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skerbis&show_icons=true&hide_title=true&count_private=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skerbis&layout=compact&hide_title=true)
-
 ## 💡 What you'll find here
 
 - Open Source projects around REDAXO and web development
